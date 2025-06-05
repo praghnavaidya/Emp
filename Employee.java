@@ -24,6 +24,7 @@ public class Employee {
     public static void main(String[] args) {
         Employee emp = new Employee("John Doe", 12345, 50000.0, "Engineering");
         emp.display();
+        System.out.println("Master Branch");
     }
 }
 
